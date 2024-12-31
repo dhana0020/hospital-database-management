@@ -2,7 +2,9 @@
 This project is a Hospital Database Management System (DBMS) designed to manage the various operations of a hospital. It provides an intuitive and user-friendly graphical interface using Tkinter (Python's standard GUI library), combined with the powerful database management capabilities of Oracle.
 
 # frontend - python ( tkinter )
+Tkinter is a standard Python GUI (Graphical User Interface) library that provides a set of tools and widgets to create desktop applications with graphical interfaces
 # backend - oracle ( sqlplus )
+SQL*Plus is a command-line tool provided by Oracle for interacting with Oracle Database. It allows you to perform various tasks related to querying, data manipulation, and database administration
 
 # login
 ![Screenshot 2024-12-31 165507](https://github.com/user-attachments/assets/a12f9e9b-b710-466a-990b-8992d64c38c5)
